@@ -4,11 +4,11 @@
 
 ### 👨‍💻 Обо мне:
 
-Я тестировщик
+Я junior тестировщик в поиске команды :)
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
+    <a href="https://www.linkedin.com/in/anton-baldakov-4a200326b/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/Banton113" target="_blank">
